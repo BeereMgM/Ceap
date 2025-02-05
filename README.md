@@ -14,6 +14,7 @@ For tournaments we are willing to create and design a tracking software to make 
 To view your tournaments bracket and the history of other tournaments we are designing a webpage so you can see everything on there!
 
 # Developement
+All services are still in development and are not fully available yet! If you want to test them you can send a request via ticket!
 If you are interested in this project, have some descent understanding of programming and some knowlage about gaming, you are invited to join our developement team!
 
 # Epilogue
