@@ -1,4 +1,6 @@
 # Ceap
+What is Ceap? Ceap is a system to provide you an excellent hosting of tournaments! 
+We are paying all efforts to provide you the best experience on hosting your own tournament.
 
 # How does it work?
 ## Lobby bot
