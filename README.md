@@ -3,7 +3,7 @@
 # How does it work?
 ## Lobby bot
 Just join our [discord](https://discord.gg/ceap), go to the channel `lobby-bot` and read through the instructions. 
-DM our Discord bot and use the `/epicauth` command to verify your lobby bots Epic Games account! Finally start and control your bot with the `botcontrol` command!
+DM our Discord bot and use the `/epicauth` command to verify your lobby bots Epic Games account! Finally start and control your bot with the `/botcontrol` command!
 
 # Tournaments
 We offer a free and paid torunament system designed for you! 
